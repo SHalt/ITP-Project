@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Fri Dec 16 13:05:11 CET 2011:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0134-46c2-fb99-00000000002e 
+on database directory C:\Users\Asgeir\workspace2\IPH\ITP_database  with class loader sun.misc.Launcher$AppClassLoader@5acac268 
+Loaded from file:/C:/Users/Asgeir/Downloads/d/eclipse/plugins/org.apache.derby.core_10.8.1/derby.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_26-b03
+user.dir=C:\Users\Asgeir\workspace2\IPH
+derby.system.home=.
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Dec 16 13:05:14 CET 2011: Shutting down Derby engine
+----------------------------------------------------------------
+Fri Dec 16 13:05:15 CET 2011:
+Shutting down instance a816c00e-0134-46c2-fb99-00000000002e on database directory C:\Users\Asgeir\workspace2\IPH\ITP_database with class loader sun.misc.Launcher$AppClassLoader@5acac268 
+----------------------------------------------------------------
